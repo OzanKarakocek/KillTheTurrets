@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|c:\\users\\ozank.ozan\\sancaktepebitirmeprojesi\\assets\\menuyedon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\menuyedon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\yenibol\u00FCmbuton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\yenibol\u00FCmbuton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\fireexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\fireexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\sonc\u0131k\u0131s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\sonc\u0131k\u0131s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\hikayedevambutonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\hikayedevambutonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\dusmansaglik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\dusmansaglik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\sahnekontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\sahnekontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\muzikkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\muzikkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\dusmansaldiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\dusmansaldiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\dusmankontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\dusmankontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\butonkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\butonkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\dusmanmermihasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\dusmanmermihasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\mermihasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\mermihasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\karaktersaglik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\karaktersaglik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\karakterkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\karakterkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\mermi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\mermi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\assets\\kamerakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86923857-2F0A-34C2-30C4-23BD18049FAB}|Assembly-CSharp.csproj|solutionrelative:assets\\kamerakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuyeDon.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\MenuyeDon.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuyeDon.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\MenuyeDon.cs",
+              "RelativeToolTip": "Assets\\MenuyeDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:27:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YeniBol\u00FCmButon.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\YeniBol\u00FCmButon.cs",
+              "RelativeDocumentMoniker": "Assets\\YeniBol\u00FCmButon.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\YeniBol\u00FCmButon.cs",
+              "RelativeToolTip": "Assets\\YeniBol\u00FCmButon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:19:29.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SonC\u0131k\u0131s.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\SonC\u0131k\u0131s.cs",
+              "RelativeDocumentMoniker": "Assets\\SonC\u0131k\u0131s.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\SonC\u0131k\u0131s.cs",
+              "RelativeToolTip": "Assets\\SonC\u0131k\u0131s.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:17:59.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireExit.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\FireExit.cs",
+              "RelativeDocumentMoniker": "Assets\\FireExit.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\FireExit.cs",
+              "RelativeToolTip": "Assets\\FireExit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:16:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SahneKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\SahneKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\SahneKontrol.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\SahneKontrol.cs",
+              "RelativeToolTip": "Assets\\SahneKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:06:05.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MuzikKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\MuzikKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\MuzikKontrol.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\MuzikKontrol.cs",
+              "RelativeToolTip": "Assets\\MuzikKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:05:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HikayeDevamButonu.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\HikayeDevamButonu.cs",
+              "RelativeDocumentMoniker": "Assets\\HikayeDevamButonu.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\HikayeDevamButonu.cs",
+              "RelativeToolTip": "Assets\\HikayeDevamButonu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:39:38.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ButonKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\ButonKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\ButonKontrol.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\ButonKontrol.cs",
+              "RelativeToolTip": "Assets\\ButonKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:27:51.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DusmanMermiHasar.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanMermiHasar.cs",
+              "RelativeDocumentMoniker": "Assets\\DusmanMermiHasar.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanMermiHasar.cs",
+              "RelativeToolTip": "Assets\\DusmanMermiHasar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:31:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DusmanSaldiri.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanSaldiri.cs",
+              "RelativeDocumentMoniker": "Assets\\DusmanSaldiri.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanSaldiri.cs",
+              "RelativeToolTip": "Assets\\DusmanSaldiri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:28:00.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KarakterSaglik.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\KarakterSaglik.cs",
+              "RelativeDocumentMoniker": "Assets\\KarakterSaglik.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\KarakterSaglik.cs",
+              "RelativeToolTip": "Assets\\KarakterSaglik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:27:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DusmanSaglik.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanSaglik.cs",
+              "RelativeDocumentMoniker": "Assets\\DusmanSaglik.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanSaglik.cs",
+              "RelativeToolTip": "Assets\\DusmanSaglik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:15:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DusmanKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\DusmanKontrol.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\DusmanKontrol.cs",
+              "RelativeToolTip": "Assets\\DusmanKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T17:48:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MermiHasar.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\MermiHasar.cs",
+              "RelativeDocumentMoniker": "Assets\\MermiHasar.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\MermiHasar.cs",
+              "RelativeToolTip": "Assets\\MermiHasar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:17:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mermi.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\Mermi.cs",
+              "RelativeDocumentMoniker": "Assets\\Mermi.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\Mermi.cs",
+              "RelativeToolTip": "Assets\\Mermi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:07:33.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KameraKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\KameraKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\KameraKontrol.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\KameraKontrol.cs",
+              "RelativeToolTip": "Assets\\KameraKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:52:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KarakterKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\KarakterKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\KarakterKontrol.cs",
+              "ToolTip": "C:\\Users\\ozank.OZAN\\SancaktepeBitirmeProjesi\\Assets\\KarakterKontrol.cs",
+              "RelativeToolTip": "Assets\\KarakterKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:19:01.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
